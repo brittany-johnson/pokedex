@@ -1,0 +1,16 @@
+.Pokedex {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    background-color: #161d27;
+}
+.Pokedex-Exp {
+    color: white;
+    font-weight: bold;
+    display: block;
+}
+.Pokedex-Result {
+    color: #e76f51;
+    font-weight: bold;
+    display: block;
+}
